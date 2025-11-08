@@ -1,2 +1,3 @@
 # Kompecell
-## App Description: siw bezwen yon bon aparey elektronik pa ezite ale nan Kompecell, kote wap jwenn tout prodwi yo nan yon meye pri
+## App Description: 
+Kompecell se yon app mobil ki la pou oryente itilizate, pou yo kapab jwenn bon aparey elektronik nan meye pri, fe chwa de kompecell ou pap regret,benefisye yon rabe 10% sou chak pwodwi ou ht nan Kompecell.
