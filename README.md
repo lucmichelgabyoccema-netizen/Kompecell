@@ -16,7 +16,7 @@ Kompecell se yon app mobil ki la pou oryente itilizate, pou yo kapab jwenn bon a
 ### Maybe Have 
 - Yon asistan vityèl ki ede itilizatè a chwazi bon aparèy selon bezwen li.
 
-- Posibilite pou sove pwodwi nan “wishlist”.
+- Posibilite pou sove pwodwi nan “Favorite”.
 
 - Itilizatè a dwe kapab konpare pwodwi yo pou konnen kiyès ki pi bon an.
 
