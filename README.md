@@ -20,7 +20,7 @@ Kompecell se yon app mobil ki la pou oryente itilizate, pou yo kapab jwenn bon a
 
 - Itilizatè a dwe kapab konpare pwodwi yo pou konnen kiyès ki pi bon an.
 
-### Would be Nice to Have (Siplemantè, pou fè eksperyans itilizatè a plis atiran)
+### Would be Nice to Have 
 
 - Rabe 10% sou chak pwodwi achte atravè Kompecell.
 
