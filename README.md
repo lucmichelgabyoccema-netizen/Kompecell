@@ -2,6 +2,7 @@
 ## App Description: 
 Kompecell se yon app mobil ki la pou oryente itilizate, pou yo kapab jwenn bon aparey elektronik nan meye pri, fe chwa de kompecell ou pap regret,benefisye yon rabe 10% sou chak pwodwi ou ht nan Kompecell.
 <br>
+
 <img src="https://github.com/lucmichelgabyoccema-netizen/Kompecell/blob/main/Kompecell%20(1).gif" width=200><br>
 
 ### Must Have 
